@@ -1,7 +1,14 @@
 {
-  "name": "webpack",
+  "name": "webpack4-course-udemy",
+  "description": "Step-by-step exercise for this Webpack 4 course on Udemy: https://www.udemy.com/course/webpack-from-beginner-to-advanced",
+  "license": "MIT",
   "scripts": {
     "build": "webpack"
+  },
+  "author": {
+    "email": "ahad@maacpiash.com",
+    "name": "Mohammad Abdul Ahad Chowdhury",
+    "url": "https://www.maacpiash.com"
   },
   "devDependencies": {
     "@babel/core": "^7.10.3",
