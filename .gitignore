@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/linux,macos,node,visualstudio,visualstudiocode,web,windows,yarn
-# Edit at https://www.toptal.com/developers/gitignore?templates=linux,macos,node,visualstudio,visualstudiocode,web,windows,yarn
+# Created by https://www.toptal.com/developers/gitignore/api/linux,macos,node,visualstudio,visualstudiocode,windows,yarn
+# Edit at https://www.toptal.com/developers/gitignore?templates=linux,macos,node,visualstudio,visualstudiocode,windows,yarn
 
 ### Linux ###
 *~
@@ -165,21 +165,6 @@ dist
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
-
-### Web ###
-*.asp
-*.cer
-*.csr
-*.css
-*.htm
-*.html
-*.js
-*.jsp
-*.php
-*.rss
-*.wasm
-*.wat
-*.xhtml
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -574,4 +559,4 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-# End of https://www.toptal.com/developers/gitignore/api/linux,macos,node,visualstudio,visualstudiocode,web,windows,yarn
+# End of https://www.toptal.com/developers/gitignore/api/linux,macos,node,visualstudio,visualstudiocode,windows,yarn
